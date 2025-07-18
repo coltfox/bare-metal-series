@@ -21,7 +21,7 @@
       "servertype": "jlink",
       "request": "attach",
       "type": "cortex-debug",
-      "device": "STM32F401RE",
+      "device": "STM32F446RE",
       "runToEntryPoint": "main",
       "interface": "swd",
     }
